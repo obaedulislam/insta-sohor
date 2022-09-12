@@ -101,7 +101,6 @@ img {
   font-weight: 500;
   color: var(--text-dark);
   text-decoration: none;
-  text-transform: lowercase;
 }
 .post__user:hover {
   text-decoration: underline;
